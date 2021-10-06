@@ -4,7 +4,7 @@ using DarksoulsApi.Dtos.DbModels;
 using DarksoulsApi.Dtos.Requests;
 using DarksoulsApi.Dtos.Responses;
 
-namespace DarksoulsApi.Dtos.Mappers
+namespace DarksoulsApi.Dtos.Mappers.Interfaces
 {
     public interface IMapper
     {

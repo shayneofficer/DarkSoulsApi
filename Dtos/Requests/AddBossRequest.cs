@@ -2,9 +2,8 @@ namespace DarksoulsApi.Dtos.Requests
 {
     public class AddBossRequest
     {
-        public int BossId { get; set; }
-        public string BossName { get; set; }
-        
+        public int Id { get; set; }
+        public string Name { get; set; }
         public string Location {get; set;}
 
         public int HealthNG {get; set;}
@@ -14,5 +13,7 @@ namespace DarksoulsApi.Dtos.Requests
         public int SoulsNG {get; set;}
 
         public int SoulsNGPlus {get; set;}
+
+        public bool IsBoss {get; set;}
     }
 }
