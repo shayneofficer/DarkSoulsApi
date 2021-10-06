@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Amazon.DynamoDBv2.DocumentModel;
 using DarksoulsApi.Dtos.DbModels;
 
-namespace DarksoulsApi.Services
+namespace DarksoulsApi.Repositories.Interfaces
 {
     public interface IBossesRepository
     {

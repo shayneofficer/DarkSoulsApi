@@ -1,14 +1,13 @@
 using Amazon.DynamoDBv2.DataModel;
 using DarksoulsApi.Dtos.DbModels.Interfaces;
 
-namespace DarksoulsApi.Dtos.DbModels
+namespace DarksoulsApi.Dtos.DbModels.Implementations
 {
-    [DynamoDBTable("ds1_bosses")]
-    public class Boss : IEnemy
+    public class Enemy : IEnemy
     {
         [DynamoDBHashKey]
-        public int BossId {get; set;}
-        public string BossName { get; set; }
+        public int Id {get; set;}
+        public string Name { get; set; }
         public string Location { get; set; }
         public int HealthNG { get; set; }
         public int HealthNGPlus {get; set;}

@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using DarksoulsApi.Dtos.DbModels;
+using DarksoulsApi.Dtos.DbModels.Implementations;
 
 namespace DarksoulsApi.Dtos.Responses
 {

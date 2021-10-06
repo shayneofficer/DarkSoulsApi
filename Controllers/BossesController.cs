@@ -1,12 +1,8 @@
 namespace DarksoulsApi.Controllers
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Mvc;
     using DarksoulsApi.Services;
-    using DarksoulsApi.Dtos.DbModels;
     using DarksoulsApi.Dtos.Responses;
     using DarksoulsApi.Dtos.Requests;
 
@@ -28,8 +24,12 @@ namespace DarksoulsApi.Controllers
         [HttpGet]
         public async Task<ActionResult<GetBossesResponse>> GetBosses()
         {
-            var bosses = await _bossesService.GetBosses();
-            return Ok(bosses);
+            var result = await _bossesService.GetBosses();
+
+            if(result.Bosses == null)
+                return BadRequest(result);
+
+            return Ok(result);
         }
 
         /// <summary>
@@ -39,14 +39,18 @@ namespace DarksoulsApi.Controllers
         [HttpGet("{id}/{bossName}")]
         public async Task<ActionResult<GetBossResponse>> GetBoss(int id, string bossName)
         {
-            var boss = await _bossesService.GetBoss(id, bossName);
-            return Ok(boss);
+            var result = await _bossesService.GetBoss(id, bossName);
+
+            if(result == null)
+                return BadRequest(result);
+
+            return Ok(result);
         }
 
         [HttpPost]
         public async Task AddBoss(AddBossRequest boss)
         {
-             await _bossesService.AddBoss(boss);
+            await _bossesService.AddBoss(boss);
         }
     }
 }

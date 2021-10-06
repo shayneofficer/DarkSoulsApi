@@ -1,22 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Amazon;
+﻿using Amazon;
 using Amazon.DynamoDBv2;
 using Amazon.Runtime;
-using DarksoulsApi.Dtos.Mappers;
+using DarksoulsApi.Dtos.Mappers.Implementations;
+using DarksoulsApi.Dtos.Mappers.Interfaces;
+using DarksoulsApi.Repositories.Implementations;
+using DarksoulsApi.Repositories.Interfaces;
 using DarksoulsApi.Services;
 using DarksoulsApi.Services.Implementations;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
 namespace darksouls_api

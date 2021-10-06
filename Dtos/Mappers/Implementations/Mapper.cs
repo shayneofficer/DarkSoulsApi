@@ -1,12 +1,12 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using Amazon.DynamoDBv2.DocumentModel;
-using DarksoulsApi.Dtos.DbModels;
+using DarksoulsApi.Dtos.DbModels.Implementations;
+using DarksoulsApi.Dtos.Mappers.Interfaces;
 using DarksoulsApi.Dtos.Requests;
 using DarksoulsApi.Dtos.Responses;
 
-namespace DarksoulsApi.Dtos.Mappers
+namespace DarksoulsApi.Dtos.Mappers.Implementations
 {
     public class Mapper : IMapper
     {
@@ -30,13 +30,14 @@ namespace DarksoulsApi.Dtos.Mappers
         {
             return new Document 
             {
-                ["BossId"] = addBossRequest.BossId,
-                ["BossName"] = addBossRequest.BossName,
+                ["Id"] = addBossRequest.Id.ToString(),
+                ["Name"] = addBossRequest.Name,
                 ["Location"] = addBossRequest.Location,
                 ["HealthNG"] = addBossRequest.HealthNG,
                 ["HealthNGPlus"] = addBossRequest.HealthNGPlus,
                 ["SoulsNG"] = addBossRequest.SoulsNG,
-                ["SoulsNGPlus"] = addBossRequest.SoulsNGPlus
+                ["SoulsNGPlus"] = addBossRequest.SoulsNGPlus,
+                ["IsBoss"] = addBossRequest.IsBoss
             };
         }
 
@@ -48,13 +49,14 @@ namespace DarksoulsApi.Dtos.Mappers
         {
             return new Boss
             {
-                BossId = item["BossId"].AsInt(),
+                Id = item["Id"].AsInt(),
                 Location = item["Location"],
-                BossName = item["BossName"].AsString(),
+                Name = item["Name"].AsString(),
                 HealthNG  = item["HealthNG"].AsInt(),
                 HealthNGPlus = item["HealthNGPlus"].AsInt(),
                 SoulsNG = item["SoulsNG"].AsInt(),
                 SoulsNGPlus = item["SoulsNGPlus"].AsInt(),
+                IsBoss = item["IsBoss"].AsBoolean()
             };
         }
 

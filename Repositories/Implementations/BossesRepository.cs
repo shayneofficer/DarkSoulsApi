@@ -1,17 +1,16 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Amazon.DynamoDBv2;
-using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2.DocumentModel;
-using DarksoulsApi.Dtos.DbModels;
+using DarksoulsApi.Repositories.Interfaces;
 
-namespace DarksoulsApi.Services.Implementations
+namespace DarksoulsApi.Repositories.Implementations
 {
     public class BossesRepository : IBossesRepository
     {
         #region Fields
 
-        private readonly string _tableName = "ds1_bosses";
+        private readonly string _tableName = "ds1_enemies";
         private readonly Table _table;
 
         #endregion

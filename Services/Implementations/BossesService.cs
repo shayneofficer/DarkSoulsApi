@@ -1,9 +1,8 @@
-using System.Collections.Generic;
 using System.Threading.Tasks;
-using DarksoulsApi.Dtos.DbModels;
-using DarksoulsApi.Dtos.Mappers;
+using DarksoulsApi.Dtos.Mappers.Interfaces;
 using DarksoulsApi.Dtos.Requests;
 using DarksoulsApi.Dtos.Responses;
+using DarksoulsApi.Repositories.Interfaces;
 
 namespace DarksoulsApi.Services.Implementations
 {
