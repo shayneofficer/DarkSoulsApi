@@ -31,25 +31,25 @@
   },
   {
     "name": "Hollow Warrior",
-    "Physical Defense": "?? ~\u00a0??",
-    "Strike Defense": "??\u00a0~\u00a0??",
-    "Slash defense": "??\u00a0~\u00a0??",
-    "Thrust Defense": "?? ~\u00a0??",
-    "Magic Defense": "?? ~\u00a0??",
+    "Physical Defense": "?? ~ ??",
+    "Strike Defense": "?? ~ ??",
+    "Slash defense": "?? ~ ??",
+    "Thrust Defense": "?? ~ ??",
+    "Magic Defense": "?? ~ ??",
     "Fire Defense": "?? ~ ??",
     "Lightning Defense": "?? ~ ??",
     "Poison Resistance": "?",
     "Toxic Resistance": "?",
     "Bleed Resistance": "?",
-    "HP": "??\u00a0~ ??\u00a0(NG+ ??\u00a0- ??)",
+    "HP": "?? ~ ?? (NG+ ?? - ??)",
     "Drops": "\n\nHollow Warrior's Armor Set\nCracked Round Shield\nShortsword\nBattle Axe\nFirebomb\n "
   },
   {
     "name": "Undead Assassin",
-    "Physical Defense": "\u00a0121",
-    "Strike Defense": "\u00a0121",
-    "Slash defense": "\u00a0121",
-    "Thrust Defense": "\u00a0121\u00a0",
+    "Physical Defense": "121",
+    "Strike Defense": "121",
+    "Slash defense": "121",
+    "Thrust Defense": "121",
     "Magic Defense": "90",
     "Fire Defense": "79",
     "Lightning Defense": "90",
@@ -61,13 +61,13 @@
   },
   {
     "name": "Undead Soldier (Sword)",
-    "Physical Defense": "\u00a0103 ~ 212\u00a0",
-    "Strike Defense": "\u00a0103 ~ 212",
-    "Slash defense": "\u00a0103 ~ 212",
-    "Thrust Defense": "\u00a0103 ~ 212",
-    "Magic Defense": "\u00a077 ~ 159\u00a0\u00a0",
-    "Fire Defense": "\u00a072 ~ 148\u00a0",
-    "Lightning Defense": "\u00a072 ~ 148",
+    "Physical Defense": "103 ~ 212",
+    "Strike Defense": "103 ~ 212",
+    "Slash defense": "103 ~ 212",
+    "Thrust Defense": "103 ~ 212",
+    "Magic Defense": "77 ~ 159",
+    "Fire Defense": "72 ~ 148",
+    "Lightning Defense": "72 ~ 148",
     "Poison Resistance": "E/D",
     "Toxic Resistance": "E/D",
     "Bleed Resistance": "E/D",
@@ -80,9 +80,9 @@
     "Strike Defense": "103 ~ 212",
     "Slash defense": "103 ~ 212",
     "Thrust Defense": "103 ~ 212",
-    "Magic Defense": "\u00a077 ~ 159\u00a0",
-    "Fire Defense": "\u00a072 ~ 148\u00a0",
-    "Lightning Defense": "\u00a072 ~ 148",
+    "Magic Defense": "77 ~ 159",
+    "Fire Defense": "72 ~ 148",
+    "Lightning Defense": "72 ~ 148",
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "D",
@@ -101,8 +101,8 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "C",
-    "HP": "129\u00a0~ 385 (NG+ 245 - 695)",
-    "Drops": "160\u00a0- 500 Souls (NG+ 800 - 1000)Balder Side Sword Rapier Balder Shield Buckler Light Crossbow Balder HelmBalder Armor Balder Gauntlets Balder Leggings Titanite ShardLarge Titanite Shard "
+    "HP": "129 ~ 385 (NG+ 245 - 695)",
+    "Drops": "160 - 500 Souls (NG+ 800 - 1000)Balder Side Sword Rapier Balder Shield Buckler Light Crossbow Balder HelmBalder Armor Balder Gauntlets Balder Leggings Titanite ShardLarge Titanite Shard "
   },
   {
     "name": "Balder Knight Archer",
@@ -116,7 +116,7 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "C",
-    "HP": "130\u00a0(NG+ 245)",
+    "HP": "130 (NG+ 245)",
     "Drops": "160 ~ 500 Souls (NG+ 800~1500)Light Crossbow"
   },
   {
@@ -131,16 +131,16 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "D",
-    "HP": "330 ( NG+\u00a0517)",
-    "Drops": "400 Souls (NG+\u00a0800\u00a0- 800)"
+    "HP": "330 ( NG+ 517)",
+    "Drops": "400 Souls (NG+ 800 - 800)"
   },
   {},
   {},
   {
     "name": "Undead Crystal Soldier",
     "Physical Defense": "642",
-    "Strike Defense": "\u00a0482",
-    "Slash defense": "\u00a0803",
+    "Strike Defense": "482",
+    "Slash defense": "803",
     "Thrust Defense": "642",
     "Magic Defense": "333",
     "Fire Defense": "333",
@@ -149,10 +149,10 @@
     "Toxic Resistance": "B",
     "Bleed Resistance": "A",
     "HP": "212 (NG+ 333 )",
-    "Drops": "400\u00a0Souls (NG+\u00a0800)Crystal Straight SwordCaduceus Kite Shield"
+    "Drops": "400 Souls (NG+ 800)Crystal Straight SwordCaduceus Kite Shield"
   },
   {
-    "name": "Undead\u00a0Crystal Archer",
+    "name": "Undead Crystal Archer",
     "Physical Defense": "498",
     "Strike Defense": "374",
     "Slash defense": "623",
@@ -163,7 +163,7 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "A",
-    "HP": "155\u00a0(NG+\u00a0243)",
+    "HP": "155 (NG+ 243)",
     "Drops": "400 Souls (NG+ 800)Longbow"
   },
   {
@@ -171,9 +171,9 @@
     "Physical Defense": "? ~ ?",
     "Strike Defense": "? ~ ?",
     "Slash defense": "? ~ ?",
-    "Thrust Defense": "? ~\u00a0?",
+    "Thrust Defense": "? ~ ?",
     "Magic Defense": "? ~ ?",
-    "Fire Defense": "? ~\u00a0?",
+    "Fire Defense": "? ~ ?",
     "Lightning Defense": "? ~ ?",
     "Poison Resistance": "?",
     "Toxic Resistance": "?",
@@ -183,18 +183,18 @@
   },
   {
     "name": "Undead Attack DOg",
-    "Physical Defense": "100 ~\u00a0132\u00a0",
-    "Strike Defense": "100 ~\u00a0132\u00a0",
-    "Slash defense": "100 ~\u00a0132\u00a0",
-    "Thrust Defense": "100 ~\u00a0132\u00a0",
-    "Magic Defense": "75 ~ 99\u00a0",
+    "Physical Defense": "100 ~ 132",
+    "Strike Defense": "100 ~ 132",
+    "Slash defense": "100 ~ 132",
+    "Thrust Defense": "100 ~ 132",
+    "Magic Defense": "75 ~ 99",
     "Fire Defense": "60 ~ 78",
     "Lightning Defense": "75 ~ 99",
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "D",
-    "HP": "100\u00a0~\u00a0210 (NG+\u00a0252 -329)",
-    "Drops": "80\u00a0-\u00a0300 Souls (NG+\u00a0400 -\u00a0600)"
+    "HP": "100 ~ 210 (NG+ 252 -329)",
+    "Drops": "80 - 300 Souls (NG+ 400 - 600)"
   },
   {
     "name": "Flaming Attack Dog",
@@ -208,8 +208,8 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "D",
-    "HP": "124 (NG+\u00a0238 )",
-    "Drops": "150\u00a0Souls (NG+ 450)"
+    "HP": "124 (NG+ 238 )",
+    "Drops": "150 Souls (NG+ 450)"
   },
   {
     "name": "Infested Ghoul",
@@ -223,8 +223,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "D",
-    "HP": "365\u00a0(NG+ 701\u00a0)",
-    "Drops": "150\u00a0Souls (NG+\u00a0450)Broken Straight SwordSpearSoul of a Lost Undead Large Soul of a Lost UndeadSoul of a Nameless SoldierHumanity "
+    "HP": "365 (NG+ 701 )",
+    "Drops": "150 Souls (NG+ 450)Broken Straight SwordSpearSoul of a Lost Undead Large Soul of a Lost UndeadSoul of a Nameless SoldierHumanity "
   },
   {
     "name": "Darkwraith Knight",
@@ -238,8 +238,8 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "B",
-    "HP": "525\u00a0(NG+\u00a0888 )",
-    "Drops": "1200\u00a0Souls (NG+\u00a03600 )Titanite ChunkTitanite Slab\u00a0Dark Hand\u00a0"
+    "HP": "525 (NG+ 888 )",
+    "Drops": "1200 Souls (NG+ 3600 )Titanite ChunkTitanite Slab Dark Hand "
   },
   {
     "name": "Undead Mage",
@@ -253,8 +253,8 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "E",
     "Bleed Resistance": "D",
-    "HP": "411\u00a0(NG+\u00a0835 )",
-    "Drops": "1000\u00a0Souls (NG+\u00a04000)Skull Lantern"
+    "HP": "411 (NG+ 835 )",
+    "Drops": "1000 Souls (NG+ 4000)Skull Lantern"
   },
   {
     "name": "Great Stone Knight",
@@ -268,8 +268,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "190\u00a0(NG+\u00a0436 )",
-    "Drops": "600\u00a0Souls (NG+\u00a02400 )Stone GreatswordStone Greatshield"
+    "HP": "190 (NG+ 436 )",
+    "Drops": "600 Souls (NG+ 2400 )Stone GreatswordStone Greatshield"
   },
   {
     "name": "Giant",
@@ -283,8 +283,8 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "1726\u00a0(NG+ 3158 )",
-    "Drops": "1000 ~ 3000 Souls (NG+\u00a03000 ~ 9000 )Titanite Chunk"
+    "HP": "1726 (NG+ 3158 )",
+    "Drops": "1000 ~ 3000 Souls (NG+ 3000 ~ 9000 )Titanite Chunk"
   },
   {
     "name": "Crystal Golem",
@@ -298,8 +298,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "408\u00a0~ 680\u00a0(NG+\u00a0934 -1067 )",
-    "Drops": "200\u00a0-\u00a01200 Souls (NG+\u00a0800 -2400 )Blue Titanite ChunkBroken Pendant\u00a0"
+    "HP": "408 ~ 680 (NG+ 934 -1067 )",
+    "Drops": "200 - 1200 Souls (NG+ 800 -2400 )Blue Titanite ChunkBroken Pendant "
   },
   {
     "name": "Sentinel",
@@ -313,8 +313,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "C",
-    "HP": "535\u00a0(NG+ 937 )",
-    "Drops": "1500\u00a0Souls (NG+\u00a04500 )Giant's HalberdGiant Shield"
+    "HP": "535 (NG+ 937 )",
+    "Drops": "1500 Souls (NG+ 4500 )Giant's HalberdGiant Shield"
   },
   {
     "name": "Royal Sentinel",
@@ -328,22 +328,22 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "C",
-    "HP": "755\u00a0(NG+ 1322)",
-    "Drops": "3000\u00a0Souls (NG+\u00a09000 )Giant's HalberdGiant ShieldTitanite Chunk"
+    "HP": "755 (NG+ 1322)",
+    "Drops": "3000 Souls (NG+ 9000 )Giant's HalberdGiant ShieldTitanite Chunk"
   },
   {
     "name": "Treant Gardener",
-    "Physical Defense": "\u00a0? ~ ?\u00a0",
-    "Strike Defense": "\u00a0? ~ ?",
-    "Slash defense": "\u00a0? ~ ?",
-    "Thrust Defense": "\u00a0? ~ ?\u00a0\u00a0",
-    "Magic Defense": "\u00a0? ~ ?\u00a0\u00a0",
-    "Fire Defense": "\u00a0? ~ ?\u00a0",
-    "Lightning Defense": "\u00a0? ~ ?\u00a0\u00a0",
+    "Physical Defense": "? ~ ?",
+    "Strike Defense": "? ~ ?",
+    "Slash defense": "? ~ ?",
+    "Thrust Defense": "? ~ ?",
+    "Magic Defense": "? ~ ?",
+    "Fire Defense": "? ~ ?",
+    "Lightning Defense": "? ~ ?",
     "Poison Resistance": "?",
     "Toxic Resistance": "?",
     "Bleed Resistance": "?",
-    "HP": "?\u00a0~\u00a0? (NG+\u00a0? -\u00a0?)",
+    "HP": "? ~ ? (NG+ ? - ?)",
     "Drops": "? ~ ? Souls (NG+ ? ~ ?)item ?"
   },
   {
@@ -358,23 +358,23 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "560\u00a0(NG+\u00a0879 )",
-    "Drops": "1000\u00a0Souls (NG+\u00a02000 )Stone GreataxeTwinkling Titanite"
+    "HP": "560 (NG+ 879 )",
+    "Drops": "1000 Souls (NG+ 2000 )Stone GreataxeTwinkling Titanite"
   },
   {
     "name": "Undead Attack DOg",
-    "Physical Defense": "100 ~\u00a0132\u00a0",
-    "Strike Defense": "100 ~\u00a0132\u00a0",
-    "Slash defense": "100 ~\u00a0132\u00a0",
-    "Thrust Defense": "100 ~\u00a0132\u00a0",
-    "Magic Defense": "75 ~ 99\u00a0",
+    "Physical Defense": "100 ~ 132",
+    "Strike Defense": "100 ~ 132",
+    "Slash defense": "100 ~ 132",
+    "Thrust Defense": "100 ~ 132",
+    "Magic Defense": "75 ~ 99",
     "Fire Defense": "60 ~ 78",
     "Lightning Defense": "75 ~ 99",
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "D",
-    "HP": "100\u00a0~\u00a0210 (NG+\u00a0252 -329)",
-    "Drops": "80\u00a0-\u00a0300 Souls (NG+\u00a0400 -\u00a0600)"
+    "HP": "100 ~ 210 (NG+ 252 -329)",
+    "Drops": "80 - 300 Souls (NG+ 400 - 600)"
   },
   {
     "name": "Oolacile Resident (Bloatheads)",
@@ -388,8 +388,8 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "380\u00a0(NG+ 596\u00a0)",
-    "Drops": "400\u00a0Souls (NG+\u00a0800 )Large Titanite ShardBloated Head"
+    "HP": "380 (NG+ 596 )",
+    "Drops": "400 Souls (NG+ 800 )Large Titanite ShardBloated Head"
   },
   {
     "name": "Abyss Guard",
@@ -403,8 +403,8 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "300\u00a0(NG+ 471 )",
-    "Drops": "700\u00a0Souls (NG+ 1400 )Green Titanite ShardOolacile Catalyst Bloated Sorcerer Head"
+    "HP": "300 (NG+ 471 )",
+    "Drops": "700 Souls (NG+ 1400 )Green Titanite ShardOolacile Catalyst Bloated Sorcerer Head"
   },
   {
     "name": "Chained Prisoner",
@@ -418,8 +418,8 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "1280\u00a0(NG+ 2009\u00a0)",
-    "Drops": "1000\u00a0Souls (NG+\u00a02000 )Chain HelmChain ArmorLeather GauntletsChain Leggings"
+    "HP": "1280 (NG+ 2009 )",
+    "Drops": "1000 Souls (NG+ 2000 )Chain HelmChain ArmorLeather GauntletsChain Leggings"
   },
   {
     "name": "Giant Humanity",
@@ -433,12 +433,12 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "200\u00a0~\u00a0700 (NG+\u00a0314 ~ 1099\u00a0)",
-    "Drops": "5 ~ 20\u00a0Souls (NG+\u00a010 ~ 40 )HumanityTwin Humanity"
+    "HP": "200 ~ 700 (NG+ 314 ~ 1099 )",
+    "Drops": "5 ~ 20 Souls (NG+ 10 ~ 40 )HumanityTwin Humanity"
   },
   {
     "name": "Skeleton",
-    "Physical Defense": "247\u00a0~ 264",
+    "Physical Defense": "247 ~ 264",
     "Strike Defense": "173 ~ 185",
     "Slash defense": "247 ~ 264",
     "Thrust Defense": "309 ~ 330",
@@ -448,8 +448,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "154 ~\u00a0196 (NG+\u00a0310 -\u00a0396 )",
-    "Drops": "50\u00a0-\u00a0100 Souls (NG+\u00a0200 -\u00a0400 )Scimitar Red & White Round Shield Short Bow"
+    "HP": "154 ~ 196 (NG+ 310 - 396 )",
+    "Drops": "50 - 100 Souls (NG+ 200 - 400 )Scimitar Red & White Round Shield Short Bow"
   },
   {
     "name": "Giant Skeleton",
@@ -463,8 +463,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "262\u00a0~ 386 (NG+\u00a0428 - 634) (NG+6\u00a0725 -\u00a0792)",
-    "Drops": "500 -\u00a01000 Souls (NG+\u00a02000 - 3200) (NG+6 2500 - 4000)Murakumo "
+    "HP": "262 ~ 386 (NG+ 428 - 634) (NG+6 725 - 792)",
+    "Drops": "500 - 1000 Souls (NG+ 2000 - 3200) (NG+6 2500 - 4000)Murakumo "
   },
   {
     "name": "Giant Skeleton Archer",
@@ -478,8 +478,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "262 (NG+ 428) (NG+6\u00a0535)",
-    "Drops": "1000 Souls (NG+\u00a02000) (NG+6 2500)Longbow"
+    "HP": "262 (NG+ 428) (NG+6 535)",
+    "Drops": "1000 Souls (NG+ 2000) (NG+6 2500)Longbow"
   },
   {
     "name": "Skeleton Beast",
@@ -493,12 +493,12 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "446 (NG+\u00a0732 )",
-    "Drops": "1500\u00a0Souls (NG+\u00a03000)"
+    "HP": "446 (NG+ 732 )",
+    "Drops": "1500 Souls (NG+ 3000)"
   },
   {
     "name": "Wheel Skeleton (Bonewheels)",
-    "Physical Defense": "239\u00a0~ 348",
+    "Physical Defense": "239 ~ 348",
     "Strike Defense": "167 ~ 244",
     "Slash defense": "239 ~ 348",
     "Thrust Defense": "299 ~ 435",
@@ -508,8 +508,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "134 ~ 196\u00a0(NG+ 273 - 310 )",
-    "Drops": "400\u00a0-\u00a0800 Souls (NG+\u00a01600)Bonewheel Shield"
+    "HP": "134 ~ 196 (NG+ 273 - 310 )",
+    "Drops": "400 - 800 Souls (NG+ 1600)Bonewheel Shield"
   },
   {
     "name": "Bone Tower",
@@ -523,7 +523,7 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "291\u00a0(NG+\u00a0479 )",
+    "HP": "291 (NG+ 479 )",
     "Drops": "250 Souls (NG+ 500 )White Titanite Chunk"
   },
   {
@@ -538,8 +538,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "36\u00a0(NG+\u00a056 )",
-    "Drops": "100\u00a0Souls (NG+\u00a0200 )Humanity"
+    "HP": "36 (NG+ 56 )",
+    "Drops": "100 Souls (NG+ 200 )Humanity"
   },
   {
     "name": "Bat Wing Demon (Imps)",
@@ -553,8 +553,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "C",
-    "HP": "419\u00a0(NG+ 734 )",
-    "Drops": "500\u00a0Souls (NG+ 1500)Demon's Spear"
+    "HP": "419 (NG+ 734 )",
+    "Drops": "500 Souls (NG+ 1500)Demon's Spear"
   },
   {
     "name": "Minor Taurus Demon",
@@ -568,8 +568,8 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "B",
-    "HP": "900\u00a0(NG+ 1440 )",
-    "Drops": "1200 Souls (NG+\u00a02400)Demon's Greataxe"
+    "HP": "900 (NG+ 1440 )",
+    "Drops": "1200 Souls (NG+ 2400)Demon's Greataxe"
   },
   {
     "name": "Minor Capra Demon",
@@ -584,7 +584,7 @@
     "Toxic Resistance": "A",
     "Bleed Resistance": "A",
     "HP": "589 (NG+ 996)",
-    "Drops": "800\u00a0Souls (NG+\u00a02400 )Demon Great Machete"
+    "Drops": "800 Souls (NG+ 2400 )Demon Great Machete"
   },
   {
     "name": "Stone Demon",
@@ -598,8 +598,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "196\u00a0~\u00a0205 (NG+\u00a0314 -321)",
-    "Drops": "300\u00a0Souls (NG+\u00a0600)"
+    "HP": "196 ~ 205 (NG+ 314 -321)",
+    "Drops": "300 Souls (NG+ 600)"
   },
   {
     "name": "Crow Demon (Harpies)",
@@ -613,8 +613,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "D",
-    "HP": "930\u00a0(NG+\u00a01460 )",
-    "Drops": "1000\u00a0Souls (NG+\u00a02000)Souvenir of Reprisal"
+    "HP": "930 (NG+ 1460 )",
+    "Drops": "1000 Souls (NG+ 2000)Souvenir of Reprisal"
   },
   {
     "name": "Bounding Demon of Lost Izalith",
@@ -628,8 +628,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "C",
-    "HP": "1407\u00a0(NG+\u00a02209)",
-    "Drops": "2000\u00a0Souls (NG+\u00a04000)"
+    "HP": "1407 (NG+ 2209)",
+    "Drops": "2000 Souls (NG+ 4000)"
   },
   {
     "name": "Ghost",
@@ -643,8 +643,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "231 (NG+\u00a0469)",
-    "Drops": "200 Souls (NG+\u00a0800)Transient Curse Jagged Ghost Blade"
+    "HP": "231 (NG+ 469)",
+    "Drops": "200 Souls (NG+ 800)Transient Curse Jagged Ghost Blade"
   },
   {
     "name": "Banshee",
@@ -658,8 +658,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "290\u00a0(NG+\u00a0590)",
-    "Drops": "400\u00a0Souls (NG+\u00a01600)Transient CurseGhost Blade"
+    "HP": "290 (NG+ 590)",
+    "Drops": "400 Souls (NG+ 1600)Transient CurseGhost Blade"
   },
   {
     "name": "Phalanx",
@@ -673,8 +673,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "C",
-    "HP": "335\u00a0(NG+ 525\u00a0)",
-    "Drops": "500\u00a0Souls (NG+\u00a01000)SpearLarge Leather Shield"
+    "HP": "335 (NG+ 525 )",
+    "Drops": "500 Souls (NG+ 1000)SpearLarge Leather Shield"
   },
   {
     "name": "Wisp",
@@ -688,8 +688,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "??\u00a0~\u00a0?? (NG+\u00a0?? -?? )",
-    "Drops": "?? -\u00a0?? Souls (NG+\u00a0?? - ??)"
+    "HP": "?? ~ ?? (NG+ ?? -?? )",
+    "Drops": "?? - ?? Souls (NG+ ?? - ??)"
   },
   {
     "name": "Vile Maggot",
@@ -703,8 +703,8 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "68\u00a0(NG+\u00a0131)",
-    "Drops": "18\u00a0Souls (NG+\u00a045)"
+    "HP": "68 (NG+ 131)",
+    "Drops": "18 Souls (NG+ 45)"
   },
   {
     "name": "Egg Carrier",
@@ -718,7 +718,7 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "C",
-    "HP": "128\u00a0(NG+ 248)",
+    "HP": "128 (NG+ 248)",
     "Drops": "Egg Vermifuge"
   },
   {
@@ -733,8 +733,8 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "D",
-    "HP": "650\u00a0(NG+\u00a01020)",
-    "Drops": "1000\u00a0Souls (NG+\u00a02000 )Red Titanite ChunkRed Titanite SlabWhite Titanite Chunk"
+    "HP": "650 (NG+ 1020)",
+    "Drops": "1000 Souls (NG+ 2000 )Red Titanite ChunkRed Titanite SlabWhite Titanite Chunk"
   },
   {
     "name": "Silver Knight",
@@ -748,8 +748,8 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "B",
-    "HP": "464\u00a0(NG+\u00a0812)",
-    "Drops": "1000\u00a0-\u00a01300 Souls (NG+\u00a03000 -\u00a03900)Silver Knight Straight SwordSilver Knight ShieldSilver Knight SpearDragonslayer Arrow"
+    "HP": "464 (NG+ 812)",
+    "Drops": "1000 - 1300 Souls (NG+ 3000 - 3900)Silver Knight Straight SwordSilver Knight ShieldSilver Knight SpearDragonslayer Arrow"
   },
   {
     "name": "Painting Guardian",
@@ -763,23 +763,23 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "C",
-    "HP": "230\u00a0(NG+\u00a0404 )",
-    "Drops": "300\u00a0Souls (NG+\u00a0900)Throwing KnifePainting Guardian Sword"
+    "HP": "230 (NG+ 404 )",
+    "Drops": "300 Souls (NG+ 900)Throwing KnifePainting Guardian Sword"
   },
   {
     "name": "Clan of Forest Protectors",
-    "Physical Defense": "\u00a0220\u00a0~ 281\u00a0",
-    "Strike Defense": "\u00a0236\u00a0~ 281\u00a0",
-    "Slash defense": "\u00a0220\u00a0~\u00a0291",
-    "Thrust Defense": "\u00a0220\u00a0~\u00a0281\u00a0",
-    "Magic Defense": "\u00a0238\u00a0~\u00a0282\u00a0",
-    "Fire Defense": "\u00a0182\u00a0~\u00a0228\u00a0",
-    "Lightning Defense": "204\u00a0~\u00a0253",
+    "Physical Defense": "220 ~ 281",
+    "Strike Defense": "236 ~ 281",
+    "Slash defense": "220 ~ 291",
+    "Thrust Defense": "220 ~ 281",
+    "Magic Defense": "238 ~ 282",
+    "Fire Defense": "182 ~ 228",
+    "Lightning Defense": "204 ~ 253",
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "B",
-    "HP": "767\u00a0~ 908\u00a0(NG+\u00a01296 -\u00a01534)",
-    "Drops": "1000\u00a0-\u00a05000 Souls (NG+\u00a03000 -\u00a015000)Black Bow of PharisPharis's HatTwin Humanities"
+    "HP": "767 ~ 908 (NG+ 1296 - 1534)",
+    "Drops": "1000 - 5000 Souls (NG+ 3000 - 15000)Black Bow of PharisPharis's HatTwin Humanities"
   },
   {
     "name": "Pisaca",
@@ -793,8 +793,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "E",
-    "HP": "350\u00a0(NG+ 549)",
-    "Drops": "800\u00a0Souls (NG+\u00a01600)HumanitySoothing SunlightBountiful Sunligh"
+    "HP": "350 (NG+ 549)",
+    "Drops": "800 Souls (NG+ 1600)HumanitySoothing SunlightBountiful Sunligh"
   },
   {
     "name": "Pinwheel Servant",
@@ -808,8 +808,8 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "B",
-    "HP": "506\u00a0(NG+ 829)",
-    "Drops": "1000\u00a0Souls (NG+\u00a02000)Mask of the FatherMask of the MotherMask of the ChildWhite Titanite ChunkWhite Titanite Slab"
+    "HP": "506 (NG+ 829)",
+    "Drops": "1000 Souls (NG+ 2000)Mask of the FatherMask of the MotherMask of the ChildWhite Titanite ChunkWhite Titanite Slab"
   },
   {
     "name": "Basilisk",
@@ -823,8 +823,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "D",
-    "HP": "116\u00a0~\u00a0193 (NG+\u00a0285 -316\u00a0)",
-    "Drops": "200\u00a0-\u00a0400 Souls (NG+\u00a0800 -\u00a01000 )Eyes of Death"
+    "HP": "116 ~ 193 (NG+ 285 -316 )",
+    "Drops": "200 - 400 Souls (NG+ 800 - 1000 )Eyes of Death"
   },
   {
     "name": "Tree Lizard",
@@ -838,8 +838,8 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "169\u00a0(NG+\u00a0388)",
-    "Drops": "60\u00a0Souls (NG+\u00a0240)Egg Vermifuge"
+    "HP": "169 (NG+ 388)",
+    "Drops": "60 Souls (NG+ 240)Egg Vermifuge"
   },
   {
     "name": "Ents",
@@ -868,8 +868,8 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "E",
-    "HP": "162\u00a0(NG+\u00a0370 )",
-    "Drops": "80\u00a0Souls (NG+\u00a0320 )Green Blossom"
+    "HP": "162 (NG+ 370 )",
+    "Drops": "80 Souls (NG+ 320 )Green Blossom"
   },
   {
     "name": "Small Mushroom People",
@@ -884,7 +884,7 @@
     "Toxic Resistance": "B",
     "Bleed Resistance": "B",
     "HP": "633 ~ 662 (NG+ 1070 - 1086)",
-    "Drops": "50\u00a0Souls (NG+\u00a0100 -\u00a0150)Gold Pine Resin"
+    "Drops": "50 Souls (NG+ 100 - 150)Gold Pine Resin"
   },
   {
     "name": "Large Mushroom People",
@@ -898,23 +898,23 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "A",
-    "HP": "2376 ~ 2483\u00a0(NG+\u00a04016 -\u00a04073)",
-    "Drops": "1000\u00a0Souls (NG+\u00a02000 -\u00a03000)Gold Pine Resin"
+    "HP": "2376 ~ 2483 (NG+ 4016 - 4073)",
+    "Drops": "1000 Souls (NG+ 2000 - 3000)Gold Pine Resin"
   },
   {
     "name": "Man-Eater Shell",
-    "Physical Defense": "382 ~ 420\u00a0",
+    "Physical Defense": "382 ~ 420",
     "Strike Defense": "191 ~ 210",
-    "Slash defense": "478 ~ 525\u00a0",
-    "Thrust Defense": "382 ~ 420\u00a0",
-    "Magic Defense": "344 ~ 378\u00a0",
-    "Fire Defense": "268 ~ 294\u00a0",
+    "Slash defense": "478 ~ 525",
+    "Thrust Defense": "382 ~ 420",
+    "Magic Defense": "344 ~ 378",
+    "Fire Defense": "268 ~ 294",
     "Lightning Defense": "306 ~ 336",
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "S",
-    "HP": "740 ~ 865\u00a0(NG+ 1161 - 1358)",
-    "Drops": "200\u00a0-\u00a01000 Souls (NG+\u00a0400 -\u00a02000)Purging StonesTwinkling Titanite"
+    "HP": "740 ~ 865 (NG+ 1161 - 1358)",
+    "Drops": "200 - 1000 Souls (NG+ 400 - 2000)Purging StonesTwinkling Titanite"
   },
   {
     "name": "Small Rats",
@@ -928,8 +928,8 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "E",
-    "HP": "80\u00a0~\u00a0112 (NG+\u00a0207 -\u00a0273 )",
-    "Drops": "20\u00a0-\u00a060 Souls (NG+\u00a0100 -\u00a0300\u00a0)Humanity"
+    "HP": "80 ~ 112 (NG+ 207 - 273 )",
+    "Drops": "20 - 60 Souls (NG+ 100 - 300 )Humanity"
   },
   {
     "name": "Large Rats",
@@ -943,8 +943,8 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "D",
-    "HP": "692\u00a0(NG+\u00a01690 )",
-    "Drops": "1000\u00a0Souls (NG+\u00a05000 )Humanity"
+    "HP": "692 (NG+ 1690 )",
+    "Drops": "1000 Souls (NG+ 5000 )Humanity"
   },
   {
     "name": "Snow Rat",
@@ -959,7 +959,7 @@
     "Toxic Resistance": "A",
     "Bleed Resistance": "E",
     "HP": "x ~ x (NG+ x -x )",
-    "Drops": "400\u00a0Souls (NG+\u00a0800\u00a0)Humanity"
+    "Drops": "400 Souls (NG+ 800 )Humanity"
   },
   {
     "name": "Drake",
@@ -973,8 +973,8 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "C",
-    "HP": "1152\u00a0(NG+\u00a01948 )",
-    "Drops": "1000\u00a0Souls (NG+\u00a03000 )Dragon Scale\u00a0"
+    "HP": "1152 (NG+ 1948 )",
+    "Drops": "1000 Souls (NG+ 3000 )Dragon Scale "
   },
   {
     "name": "Giant Leech",
@@ -988,8 +988,8 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "D",
-    "HP": "124\u00a0(NG+ 238 )",
-    "Drops": "100 souls (NG+\u00a0300 )Large Titanite ShardGreen Titanite Shard"
+    "HP": "124 (NG+ 238 )",
+    "Drops": "100 souls (NG+ 300 )Large Titanite ShardGreen Titanite Shard"
   },
   {
     "name": "Giant Mosquito",
@@ -1003,8 +1003,8 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "D",
-    "HP": "50\u00a0(NG+\u00a096 )",
-    "Drops": "30\u00a0Souls (NG+\u00a090 )"
+    "HP": "50 (NG+ 96 )",
+    "Drops": "30 Souls (NG+ 90 )"
   },
   {
     "name": "Cragspider",
@@ -1018,8 +1018,8 @@
     "Poison Resistance": "C",
     "Toxic Resistance": "C",
     "Bleed Resistance": "C",
-    "HP": "167\u00a0(NG+\u00a0321 )",
-    "Drops": "100\u00a0Souls (NG+\u00a0300 )"
+    "HP": "167 (NG+ 321 )",
+    "Drops": "100 Souls (NG+ 300 )"
   },
   {
     "name": "Chaos Bug",
@@ -1033,8 +1033,8 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "D",
-    "HP": "73\u00a0(NG+\u00a0126)",
-    "Drops": "30\u00a0-\u00a0100 Souls (NG+\u00a060 -\u00a0200)Sunlight MaggotSunlight MedalRed Titanite Chunk"
+    "HP": "73 (NG+ 126)",
+    "Drops": "30 - 100 Souls (NG+ 60 - 200)Sunlight MaggotSunlight MedalRed Titanite Chunk"
   },
   {
     "name": "Man Serpent",
@@ -1048,23 +1048,23 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "D",
-    "HP": "430\u00a0~\u00a0537 (NG+\u00a0786 -843)",
-    "Drops": "500\u00a0Souls (NG+\u00a01000 -\u00a01500)Man-Serpent GreatswordArchive Tower Cell Key"
+    "HP": "430 ~ 537 (NG+ 786 -843)",
+    "Drops": "500 Souls (NG+ 1000 - 1500)Man-Serpent GreatswordArchive Tower Cell Key"
   },
   {
     "name": "Serpent Mage",
-    "Physical Defense": "340\u00a0~\u00a0438",
-    "Strike Defense": "340\u00a0~438",
-    "Slash defense": "340\u00a0~\u00a0438",
-    "Thrust Defense": "340\u00a0~\u00a0438",
+    "Physical Defense": "340 ~ 438",
+    "Strike Defense": "340 ~438",
+    "Slash defense": "340 ~ 438",
+    "Thrust Defense": "340 ~ 438",
     "Magic Defense": "172 ~ 222",
     "Fire Defense": "151 ~ 195",
     "Lightning Defense": "144 ~ 186",
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "D",
-    "HP": "290\u00a0~\u00a0362 (NG+\u00a0530 -569)",
-    "Drops": "500 -2000 Souls (NG+\u00a01500 -\u00a04000)Flamberge\u00a0"
+    "HP": "290 ~ 362 (NG+ 530 -569)",
+    "Drops": "500 -2000 Souls (NG+ 1500 - 4000)Flamberge "
   },
   {
     "name": "Burrowing Rockworm",
@@ -1078,8 +1078,8 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "A",
-    "HP": "616 (NG+\u00a0986)",
-    "Drops": "900\u00a0Souls (NG+\u00a01800)Green Titanite ShardRed Titanite Chunk"
+    "HP": "616 (NG+ 986)",
+    "Drops": "900 Souls (NG+ 1800)Green Titanite ShardRed Titanite Chunk"
   },
   {
     "name": "Slimes",
@@ -1093,8 +1093,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "143\u00a0(NG+\u00a0349)",
-    "Drops": "100\u00a0Souls (NG+\u00a0500)Green Titanite ShardLarge Titanite Shard"
+    "HP": "143 (NG+ 349)",
+    "Drops": "100 Souls (NG+ 500)Green Titanite ShardLarge Titanite Shard"
   },
   {
     "name": "Moonlight Butterfly",
@@ -1103,13 +1103,13 @@
     "Slash defense": "184 ~306",
     "Thrust Defense": "184 ~306",
     "Magic Defense": "230 ~ 384",
-    "Fire Defense": "110 ~183\u00a0",
+    "Fire Defense": "110 ~183",
     "Lightning Defense": "148 ~246",
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "1255\u00a0(NG+\u00a01970)",
-    "Drops": "400\u00a0Souls (NG+\u00a0800)HumanitySoul of the Moonlight ButterflyBlue Titanite ChunkBlue Titanite Slab\u00a0"
+    "HP": "1255 (NG+ 1970)",
+    "Drops": "400 Souls (NG+ 800)HumanitySoul of the Moonlight ButterflyBlue Titanite ChunkBlue Titanite Slab "
   },
   {
     "name": "Crystal Lizard",
@@ -1123,8 +1123,8 @@
     "Poison Resistance": "S",
     "Toxic Resistance": "S",
     "Bleed Resistance": "S",
-    "HP": "??\u00a0~\u00a0?? (NG+\u00a0?? -?? )",
-    "Drops": "??\u00a0-\u00a0?? Souls (NG+\u00a0?? -\u00a0?? )Twinkling TitaniteLarge Titanite ShardTitanite Chunk"
+    "HP": "?? ~ ?? (NG+ ?? -?? )",
+    "Drops": "?? - ?? Souls (NG+ ?? - ?? )Twinkling TitaniteLarge Titanite ShardTitanite Chunk"
   },
   {
     "name": "Parasitic Wall Hugger",
@@ -1138,18 +1138,18 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "D",
-    "HP": "593\u00a0(NG+\u00a01140)",
-    "Drops": "1000\u00a0Souls (NG+\u00a03000)"
+    "HP": "593 (NG+ 1140)",
+    "Drops": "1000 Souls (NG+ 3000)"
   },
   {
     "name": "Oscar of Astora (Hollow)",
-    "Physical Defense": "160 ~ 248\u00a0",
-    "Strike Defense": "155 ~ 248\u00a0",
-    "Slash defense": "184 ~ 272\u00a0",
-    "Thrust Defense": "160 ~ 248\u00a0",
-    "Magic Defense": "99 ~ 186\u00a0",
-    "Fire Defense": "104 ~ 193\u00a0",
-    "Lightning Defense": "69 ~ 155\u00a0",
+    "Physical Defense": "160 ~ 248",
+    "Strike Defense": "155 ~ 248",
+    "Slash defense": "184 ~ 272",
+    "Thrust Defense": "160 ~ 248",
+    "Magic Defense": "99 ~ 186",
+    "Fire Defense": "104 ~ 193",
+    "Lightning Defense": "69 ~ 155",
     "Poison Resistance": "E/C",
     "Toxic Resistance": "E/C",
     "Bleed Resistance": "E/C",
@@ -1168,8 +1168,8 @@
     "Poison Resistance": "B",
     "Toxic Resistance": "B",
     "Bleed Resistance": "A",
-    "HP": "497\u00a0~\u00a0887 (NG+\u00a01212 -\u00a01393)",
-    "Drops": "800\u00a0-\u00a01800 Souls (NG+\u00a02400 -\u00a07200)White Titanite ChunkTitanite ChunkRed Titanite ChunkBlue Titanite ChunkBlack Knight HalberdBlack Knight GreataxeBlack Knight GreatswordBlack Knight SwordBlack Knight Shield"
+    "HP": "497 ~ 887 (NG+ 1212 - 1393)",
+    "Drops": "800 - 1800 Souls (NG+ 2400 - 7200)White Titanite ChunkTitanite ChunkRed Titanite ChunkBlue Titanite ChunkBlack Knight HalberdBlack Knight GreataxeBlack Knight GreatswordBlack Knight SwordBlack Knight Shield"
   },
   {
     "name": "Blowdart Sniper",
@@ -1183,8 +1183,8 @@
     "Poison Resistance": "E",
     "Toxic Resistance": "E",
     "Bleed Resistance": "E",
-    "HP": "93\u00a0(NG+\u00a0179)",
-    "Drops": "500\u00a0Souls (NG+\u00a01500)Purple Moss ClumpBlooming Purple Moss Clump\u00a0"
+    "HP": "93 (NG+ 179)",
+    "Drops": "500 Souls (NG+ 1500)Purple Moss ClumpBlooming Purple Moss Clump "
   },
   {
     "name": "Darkmoon Soldier",
@@ -1198,7 +1198,7 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "767\u00a0~\u00a0821 (NG+ 5000 -\u00a015000)",
+    "HP": "767 ~ 821 (NG+ 5000 - 15000)",
     "Drops": "-"
   },
   {
@@ -1213,8 +1213,8 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "C",
-    "HP": "2059\u00a0(NG+ 3480 )",
-    "Drops": "5000\u00a0Souls (NG+\u00a015000)"
+    "HP": "2059 (NG+ 3480 )",
+    "Drops": "5000 Souls (NG+ 15000)"
   },
   {
     "name": "Possessed Tree",
@@ -1228,8 +1228,8 @@
     "Poison Resistance": "D",
     "Toxic Resistance": "D",
     "Bleed Resistance": "S",
-    "HP": "540\u00a0(NG+\u00a01232)",
-    "Drops": "180\u00a0Souls (NG+ 720)"
+    "HP": "540 (NG+ 1232)",
+    "Drops": "180 Souls (NG+ 720)"
   },
   { "name": "Giant Cat" },
   {
@@ -1244,8 +1244,8 @@
     "Poison Resistance": "A",
     "Toxic Resistance": "A",
     "Bleed Resistance": "A",
-    "HP": "992\u00a0~\u00a01240 (NG+ 1815\u00a0-\u00a01946 )",
-    "Drops": "1000\u00a0-\u00a03000 Souls (NG+\u00a03000 -\u00a06000\u00a0)Symbol of AvariceLightning SpearCrystal HalberdOccult ClubGold CoinSilver Coin \u00d75Crystal Knight ShieldEnchanted FalchionCrest KeyVery Good! Carving"
+    "HP": "992 ~ 1240 (NG+ 1815 - 1946 )",
+    "Drops": "1000 - 3000 Souls (NG+ 3000 - 6000 )Symbol of AvariceLightning SpearCrystal HalberdOccult ClubGold CoinSilver Coin \u00d75Crystal Knight ShieldEnchanted FalchionCrest KeyVery Good! Carving"
   },
   {
     "name": "The Channeler",
@@ -1253,10 +1253,10 @@
     "Strike Defense": "Undead ParishDepthsThe Duke's Archives",
     "Slash defense": "Health *",
     "Thrust Defense": "NG: 181-397",
-    "Magic Defense": "NG+:\u00a0465-608",
+    "Magic Defense": "NG+: 465-608",
     "Fire Defense": "Souls *",
-    "Lightning Defense": "NG:\u00a0800-1,000",
-    "Poison Resistance": "NG+:\u00a01,600-5,000",
+    "Lightning Defense": "NG: 800-1,000",
+    "Poison Resistance": "NG+: 1,600-5,000",
     "Toxic Resistance": "163 - 384",
     "Bleed Resistance": "163 - 384"
   },
@@ -1272,7 +1272,7 @@
     "Poison Resistance": "??",
     "Toxic Resistance": "??",
     "Bleed Resistance": "??",
-    "HP": "62\u00a0~ 148 (NG+ 100)",
-    "Drops": "100 soulsHumanityTwin HumanitiesCharcoal Pine ResinDung PieGreen Titanite ShardLarge Soul of a Lost UndeadLarge Titanite ShardPrism Stone x2Purple Moss ClumpRepair PowderSoul of a Nameless SoldierTransient CurseBlooming Purple Moss ClumpBlue Titanite ChunkCopper CoinDemon TitaniteDivine BlessingDragon ScaleEgg VermifugeGold CoinGold Pine ResinLarge Soul of a Nameless SoldierLarge Soul of a Proud KnightPurging StoneRed Titanite ChunkSilver CoinTitanite ChunkTwinkling TitaniteWhite Titanite Chunk\u00a0"
+    "HP": "62 ~ 148 (NG+ 100)",
+    "Drops": "100 soulsHumanityTwin HumanitiesCharcoal Pine ResinDung PieGreen Titanite ShardLarge Soul of a Lost UndeadLarge Titanite ShardPrism Stone x2Purple Moss ClumpRepair PowderSoul of a Nameless SoldierTransient CurseBlooming Purple Moss ClumpBlue Titanite ChunkCopper CoinDemon TitaniteDivine BlessingDragon ScaleEgg VermifugeGold CoinGold Pine ResinLarge Soul of a Nameless SoldierLarge Soul of a Proud KnightPurging StoneRed Titanite ChunkSilver CoinTitanite ChunkTwinkling TitaniteWhite Titanite Chunk "
   }
 ]
